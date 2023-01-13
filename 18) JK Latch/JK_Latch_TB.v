@@ -8,7 +8,7 @@ module JK_Latch_TB;
 	JK_Latch uut (.J(J), .K(K), .Clear(Clear), .Enable(Enable), .Q(Q), .Qbar(Qbar));
 
 	initial
-		$monitor("Clear = %b | Enable = %b | S = %b | R = %b | Q = %b | Qbar = %b",Clear,Enable,J,K,Q,Qbar);
+		$monitor("Clear = %b | Enable = %b | J = %b | K = %b | Q = %b | Qbar = %b",Clear,Enable,J,K,Q,Qbar);
 	initial 
 	begin
 		Clear = 0;
