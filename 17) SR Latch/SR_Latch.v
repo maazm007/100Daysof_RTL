@@ -17,16 +17,15 @@ module SR_Latch(S,R,Q,Qbar,Enable,Clear);
 		if(Enable == 1'b1)
 		begin
 			if(S == 0 && R == 0)
-				Q = Q;
+				begin Q = Q; Qbar = ~Q; end
 			else if(S == 1 && R == 0)
-				Q = 1'b1;
+				begin Q = 1'b1; Qbar = ~Q; end
 			else if(S == 0 && R == 1)
-				Q = 1'b0;
+				begin Q = 1'b0; Qbar = ~Q; end
 			else if(S == 1 && R == 1)
-				Q = 1'bx;
+				begin Q = 1'b0; Qbar = 1'b0; end
 			else
-				Q = Q;
-			Qbar = ~Q;
+				begin Q = Q; Qbar = ~Q; end
 		end
 		else
 		begin
