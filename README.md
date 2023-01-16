@@ -1,6 +1,6 @@
 # ***100Daysof_RTL***
 > The Repository contains the code of various Digital Circuits
-Markup : 1) Day 1 = Half Adder
+1) Day 1 = Half Adder
 2) Day 2 = Full Adder
 3) Day 3 = Half Subtracter
 4) Day 4 = Full Subtracter
