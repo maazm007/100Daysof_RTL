@@ -22,5 +22,6 @@
  *  Day 19 = Master Slave JK Flip Flop
  *  Day 20 = D Flip Flop
  *  Day 21 = T Flip Flop
+ *  Day 22 = 4-bit Up Counter
 
   
