@@ -24,4 +24,5 @@
  *  Day 21 = T Flip Flop
  *  Day 22 = 4-bit Up Counter
  *  Day 23 = 4-bit Odd Even Counter
+ *  Day 24 = 4-bit Up-Down Counter
   
