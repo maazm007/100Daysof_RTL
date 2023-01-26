@@ -26,4 +26,5 @@
  *  Day 23 = 4-bit Odd Even Counter
  *  Day 24 = 4-bit Up-Down Counter
  *  Day 25 = 4-bit Ring Counter
+ *  Day 26 = 4-bit Johnson Counter
   
