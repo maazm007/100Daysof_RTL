@@ -27,4 +27,4 @@
  *  Day 24 = 4-bit Up-Down Counter
  *  Day 25 = 4-bit Ring Counter
  *  Day 26 = 4-bit Johnson Counter
-  
+ *  Day 27 = Frequency Divider
