@@ -28,3 +28,4 @@
  *  Day 25 = 4-bit Ring Counter
  *  Day 26 = 4-bit Johnson Counter
  *  Day 27 = Frequency Divider
+ *  Day 28 = Digital Clock
