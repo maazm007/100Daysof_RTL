@@ -30,3 +30,4 @@
  *  Day 27 = Frequency Divider
  *  Day 28 = Digital Clock
  *  Day 29 = Parity Generator
+ *  Day 30 = Decimal to Binary Converter
