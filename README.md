@@ -29,3 +29,4 @@
  *  Day 26 = 4-bit Johnson Counter
  *  Day 27 = Frequency Divider
  *  Day 28 = Digital Clock
+ *  Day 29 = Parity Generator
