@@ -32,3 +32,4 @@
  *  Day 29 = Parity Generator
  *  Day 30 = Decimal to Binary Converter
  *  Day 31 = Binary to Decimal Converter
+ *  Day 32 = Binary to BCD Converter
