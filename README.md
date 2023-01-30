@@ -31,3 +31,4 @@
  *  Day 28 = Digital Clock
  *  Day 29 = Parity Generator
  *  Day 30 = Decimal to Binary Converter
+ *  Day 31 = Binary to Decimal Converter
