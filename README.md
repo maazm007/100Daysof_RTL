@@ -35,3 +35,4 @@
  *  Day 32 = Binary to BCD Converter
  *  Day 33 = BCD to Binary Converter
  *  Day 34 = Binary to Excess3 Converter
+ *  Day 35 = Excess3 to Binary Converter
