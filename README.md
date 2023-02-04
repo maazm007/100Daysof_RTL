@@ -36,4 +36,5 @@
  *  Day 33 = BCD to Binary Converter
  *  Day 34 = Binary to Excess3 Converter
  *  Day 35 = Excess3 to Binary Converter
+ *  Day 36 = Decimal to Octal Converter
  *  Day 41 = N-Bit Adder
