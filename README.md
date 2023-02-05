@@ -38,4 +38,5 @@
  *  Day 35 = Excess3 to Binary Converter
  *  Day 36 = Decimal to Octal Converter
  *  Day 37 = SISO Shift Register
+ *  Day 38 = SIPO Shift Register
  *  Day 41 = N-Bit Adder
