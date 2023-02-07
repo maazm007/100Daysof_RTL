@@ -39,4 +39,5 @@
  *  Day 36 = Decimal to Octal Converter
  *  Day 37 = SISO Shift Register
  *  Day 38 = SIPO Shift Register
+ *  Day 39 = PIPO Shift Register
  *  Day 41 = N-Bit Adder
