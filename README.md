@@ -40,4 +40,5 @@
  *  Day 37 = SISO Shift Register
  *  Day 38 = SIPO Shift Register
  *  Day 39 = PIPO Shift Register
+ *  Day 40 = PISO Shift Register
  *  Day 41 = N-Bit Adder
