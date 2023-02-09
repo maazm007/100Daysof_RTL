@@ -1,10 +1,10 @@
 # ***100Daysof_RTL***
 > The Repository contains the code of various Digital Circuits
 
- *  Day 1 = [Half Adder](https://github.com/maazm007/100Daysof_RTL/tree/main/1%20Half%20Adder)
- *  Day 2 = [Full Adder](https://github.com/maazm007/100Daysof_RTL/tree/main/2%20Full%20Adder)
- *  Day 3 = [Half Subtracter](https://github.com/maazm007/100Daysof_RTL/tree/main/3%20Half%20Subtracter)
- *  Day 4 = [Full Subtracter](https://github.com/maazm007/100Daysof_RTL/tree/main/4%20Full%20Subtracter)
+ *  Day 1 = [Half Adder](https://github.com/maazm007/100Daysof_RTL/tree/main/1)
+ *  Day 2 = [Full Adder](https://github.com/maazm007/100Daysof_RTL/tree/main/2)
+ *  Day 3 = [Half Subtracter](https://github.com/maazm007/100Daysof_RTL/tree/main/3)
+ *  Day 4 = [Full Subtracter](https://github.com/maazm007/100Daysof_RTL/tree/main/4)
  *  Day 5 = Ripple Carry Adder
  *  Day 6 = Full Adder using Half Adder
  *  Day 7 = Carry Select Adder
