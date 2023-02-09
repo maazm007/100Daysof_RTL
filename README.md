@@ -42,3 +42,4 @@
  *  Day 39 = PIPO Shift Register
  *  Day 40 = PISO Shift Register
  *  Day 41 = N-Bit Adder
+ *  Day 43 = PWM Generator
