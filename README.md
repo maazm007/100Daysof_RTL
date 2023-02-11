@@ -43,3 +43,4 @@
  *  Day 40 = PISO Shift Register
  *  Day 41 = N-Bit Adder
  *  Day 43 = PWM Generator
+ *  Day 44 = ALU (Arithmetic Logical Unit)
