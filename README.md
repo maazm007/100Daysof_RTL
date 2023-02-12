@@ -12,7 +12,7 @@
  *  Day 9 = [4X1 Multiplexer](https://github.com/maazm007/100Daysof_RTL/tree/main/9-%204-1%20Multiplexer)
  *  Day 10 = [Logic Gates using Multiplexer](https://github.com/maazm007/100Daysof_RTL/tree/main/10-%20Gates%20using%20Multiplexer)
  *  Day 11 = [3:8 Decoder](https://github.com/maazm007/100Daysof_RTL/tree/main/11-%203-8%20Decoder)
- *  Day 12 = [8:3 Encoder]https://github.com/maazm007/100Daysof_RTL/tree/main/12-%208-3%20Encoder)
+ *  Day 12 = [8:3 Encoder](https://github.com/maazm007/100Daysof_RTL/tree/main/12-%208-3%20Encoder)
  *  Day 13 = [Priority Encoder](https://github.com/maazm007/100Daysof_RTL/tree/main/13-%20Priority%20Encoder)
  *  Day 14 = [3-Bit Comparator](https://github.com/maazm007/100Daysof_RTL/tree/main/14-%203%20Bit%20Comparator)
  *  Day 15 = [Binary to Gray Code Converter](https://github.com/maazm007/100Daysof_RTL/tree/main/15-%20Binary%20to%20Gray%20Converter)
