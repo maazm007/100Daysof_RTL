@@ -46,3 +46,4 @@
  *  Day 44 = ALU (Arithmetic Logical Unit)
  *  Day 45 = Signed Adder
  *  Day 46 = Signed Subtracter
+ *  Day 47 = Signed Multiplier
