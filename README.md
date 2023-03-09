@@ -50,3 +50,4 @@
  *  Day 48 = Divider (Gate Level Modelling)
  *  Day 49 = Signed Divider
  *  Day 51 = FSM Counter
+ *  Day 52 = Pattern Detector 1101 using Moore Machine
