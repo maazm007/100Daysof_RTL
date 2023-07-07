@@ -1,0 +1,57 @@
+
+# PlanAhead Generated IO constraints 
+
+NET "switch[3]" IOSTANDARD = LVCMOS33;
+NET "switch[2]" IOSTANDARD = LVCMOS33;
+NET "switch[1]" IOSTANDARD = LVCMOS33;
+NET "switch[0]" IOSTANDARD = LVCMOS33;
+
+//Above are my Input Switches
+
+NET "led[6]" IOSTANDARD = LVCMOS33;
+NET "led[5]" IOSTANDARD = LVCMOS33;
+NET "led[4]" IOSTANDARD = LVCMOS33;
+NET "led[3]" IOSTANDARD = LVCMOS33;
+NET "led[2]" IOSTANDARD = LVCMOS33;
+NET "led[1]" IOSTANDARD = LVCMOS33;
+NET "led[0]" IOSTANDARD = LVCMOS33;
+
+
+NET "anode[7]" IOSTANDARD = LVCMOS33;
+NET "anode[6]" IOSTANDARD = LVCMOS33;
+NET "anode[5]" IOSTANDARD = LVCMOS33;
+NET "anode[4]" IOSTANDARD = LVCMOS33;
+NET "anode[3]" IOSTANDARD = LVCMOS33;
+NET "anode[2]" IOSTANDARD = LVCMOS33;
+NET "anode[1]" IOSTANDARD = LVCMOS33;
+NET "anode[0]" IOSTANDARD = LVCMOS33;
+
+# PlanAhead Generated physical constraints 
+
+NET "switch[0]" LOC = J15;
+NET "switch[1]" LOC = L16;
+NET "switch[2]" LOC = M13;
+NET "switch[3]" LOC = R15;
+NET "dp" LOC = H15;
+
+# PlanAhead Generated IO constraints 
+
+NET "dp" IOSTANDARD = LVCMOS33;
+
+# PlanAhead Generated physical constraints 
+
+NET "led[6]" LOC = T10;
+NET "led[5]" LOC = R10;
+NET "led[4]" LOC = K16;
+NET "led[3]" LOC = K13;
+NET "led[2]" LOC = P15;
+NET "led[1]" LOC = T11;
+NET "led[0]" LOC = L15;
+NET "anode[0]" LOC = J17;
+NET "anode[1]" LOC = J18;
+NET "anode[2]" LOC = T9;
+NET "anode[3]" LOC = J14;
+NET "anode[4]" LOC = P14;
+NET "anode[5]" LOC = T14;
+NET "anode[6]" LOC = K2;
+NET "anode[7]" LOC = U13;

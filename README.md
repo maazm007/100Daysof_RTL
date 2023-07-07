@@ -51,4 +51,5 @@
  *  Day 49 = Signed Divider
  *  Day 51 = FSM Counter
  *  Day 52 = Pattern Detector 1101 using Moore Machine
- *  Day 52 = Pattern Detector 1101 using Mealy Machine
+ *  Day 53 = Pattern Detector 1101 using Mealy Machine
+ *  Day 54 = BCD to Seven Segment Display Converter
