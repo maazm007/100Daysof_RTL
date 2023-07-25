@@ -53,3 +53,4 @@
  *  Day 52 = [Pattern Detector 1101 using Moore Machine](https://github.com/maazm007/100Daysof_RTL/tree/main/52-%20Pattern%20Detector%20using%20Moore%20Machine)
  *  Day 53 = [Pattern Detector 1101 using Mealy Machine](https://github.com/maazm007/100Daysof_RTL/tree/main/53-%20Pattern%20Detector%20using%20Mealy%20Machine)
  *  Day 54 = [BCD to Seven Segment Display Converter](https://github.com/maazm007/100Daysof_RTL/tree/main/54-%20%20BCD%20to%20SSD%20Converter)
+ *  Day 55 = BCD to Hexadecimal SSD
